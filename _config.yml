@@ -29,7 +29,7 @@ github:
   username: username # change to your github username
 
 twitter:
-  username: https://x.com/MinhToa24057745 # change to your twitter username
+  username: MinhToa24057745 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/other/gorilla.png'
+avatar: "/assets/img/other/gorilla.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
