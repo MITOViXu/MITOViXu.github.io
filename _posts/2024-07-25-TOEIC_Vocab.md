@@ -78,50 +78,50 @@ relationship between a knowledgeable, caring adult and a secure, **motivated** c
 ***
 
 **instruction** (n): sự giảng dạy, lời hướng dẫn.  
-The role of the teacher is literature-based *instruction* is one of decision maker and mentor.  
-Many teachers base their teaching on *instruction* that challenges students.  
-Teachers of vocational school may provide *instruction* in literacy and numeracy, craftsmnship or vocational training, the arts, religion, civics, community roles, or life skills.  
-The role of the Montessori teachers centers on the preparation and organization of learing materials to meet the needs and interest of the children rather than focusing on pedagogical *instruction*.  
+- The role of the teacher is literature-based *instruction* is one of decision maker and mentor.  
+- Many teachers base their teaching on *instruction* that challenges students.  
+- Teachers of vocational school may provide *instruction* in literacy and numeracy, craftsmnship or vocational training, the arts, religion, civics, community roles, or life skills.  
+- The role of the Montessori teachers centers on the preparation and organization of learing materials to meet the needs and interest of the children rather than focusing on pedagogical *instruction*.  
 
 ***
 
 **coach** (n): nguời hướng dẫn.  
-If you ask many teachers today, they will insist that their role is *coach*, not instructor.  
-If teachers spent more time helping *coach* their students rather than berating them, the teacher's role would be stronger.  
-A teacher-*coach* helps mentor new teachers by giving them ongoing guidance on areas of lesson planning classroom management and classroom ogranization.  
-My role as student-achivement *coach* is to give each school a skilled teacher ready to encourage her colleagues forward in three areas; math, English-language learning and assessment.  
+- If you ask many teachers today, they will insist that their role is *coach*, not instructor.  
+- If teachers spent more time helping *coach* their students rather than berating them, the teacher's role would be stronger.  
+- A teacher-*coach* helps mentor new teachers by giving them ongoing guidance on areas of lesson planning classroom management and classroom ogranization.  
+- My role as student-achivement *coach* is to give each school a skilled teacher ready to encourage her colleagues forward in three areas; math, English-language learning and assessment.  
 
 ***
 
 **severe** (adj): nghiêm trọng.  
-The teacher implemented *severe* sanctions for students who were not wearing their uniform properly.  
-*Severe* sanctions might turn their children into angry and resentful adults.  
-Because of their specific learning needs, student with moderate to *severe* cognitive disabilities require special education and attention.  
-Educatin is very crtical especially to those with *severe* disabilities because these children have distinctive needs and have diverse styles when it comee to learing.  
+- The teacher implemented *severe* sanctions for students who were not wearing their uniform properly.  
+- *Severe* sanctions might turn their children into angry and resentful adults.  
+- Because of their specific learning needs, student with moderate to *severe* cognitive disabilities require special education and attention.  
+- Educatin is very crtical especially to those with *severe* disabilities because these children have distinctive needs and have diverse styles when it comee to learing.  
 
 ***
 
 **didactic** (adj): có tính giáo huấn.  
-In England, *didactic* delivery of lectures amongst teachers in prevalent.  
-The *didactic* approach is often the issue underlying resistance to change amongst educators.  
-*Didactic* teacher require the least amount of planning to execute lessons, which is sometimes no more than deciding on the content, making them often referred to as lazy.  
-We know that the teacher is in a more *didactic* role, with the majority of interactions between the teacher and individual learners dominated ny the formers.  
+- In England, *didactic* delivery of lectures amongst teachers in prevalent.  
+- The *didactic* approach is often the issue underlying resistance to change amongst educators.  
+- *Didactic* teacher require the least amount of planning to execute lessons, which is sometimes no more than deciding on the content, making them often referred to as lazy.  
+- We know that the teacher is in a more *didactic* role, with the majority of interactions between the teacher and individual learners dominated ny the formers.  
 
 ***
 
 **dispense** (v): cung cấp = **supply** (v) = **distribute** (v): phân phát = **allot** (v): giao việc = **administer** (v): quản lý.  
-*dispense*: Teaching was a combination of information-*dispensing*, custodial child care, and sorting out academically inclined students from others.  
-*supply*: The preschool teacher was *supplying* all the students' parents with child care contacts.  
-*distribute*: As the teacher was *distributing* the tests, the most academically proficient students smiled.  
-*administer*: The school secretary is in charge of *administering* child care in the event of an emergency.  
-*allot*: Rather than *alloting* homework to every child, the teacher gave it to one child only.  
+- Teaching was a combination of information-*dispensing*, custodial child care, and sorting out academically inclined students from others.  
+- The preschool teacher was *supplying* all the students' parents with child care contacts.  
+- As the teacher was *distributing* the tests, the most academically proficient students smiled.  
+- The school secretary is in charge of *administering* child care in the event of an emergency.  
+- Rather than *alloting* homework to every child, the teacher gave it to one child only.  
 
 ***
 
 **close relationship**: quan hệ thân thiết  = **close order**: đội hình xếp sát nhau = **casual relationship**: quan hệ nhận quả = **close examination**: kiểm tra kỹ lưỡng = **employment relationship**: quan hệ lao động  
-*close relationship*: Every parent wants the best for their child, placing value on close relationships, hard work, and gentleness.  
-Army foot soldiers during the Middle Ages fought in close order with pikes and other heavy weapons.  
-*close examination*: Police found nothing, though they performed a *close examination* of the National Institute of Sientific Investigation.  
-*casual relationship*: The victim's suicide has a *casual relationship* with the psychological pressure he received after his bankrupt.  
-*employment relationship*: Even third party contractors are in an *employment relationship* with the company.
+- Every parent wants the best for their child, placing value on close relationships, hard work, and gentleness.  
+- Army foot soldiers during the Middle Ages fought in close order with pikes and other heavy weapons.  
+- Police found nothing, though they performed a *close examination* of the National Institute of Sientific Investigation.  
+- The victim's suicide has a *casual relationship* with the psychological pressure he received after his bankrupt.  
+- Even third party contractors are in an *employment relationship* with the company.
 
