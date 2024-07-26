@@ -107,7 +107,7 @@ relationship between a knowledgeable, caring adult and a secure, **motivated** c
 
 ***
 
-**dispense** (v): cung cấp = **supply** (v) = **distribute** (v): phân phát = **allot** (v): giao việc = **administer** (v): quản lý.  
+**dispense** (v): cung cấp <=> **supply** (v) <=> **distribute** (v): phân phát <=> **allot** (v): giao việc <=> **administer** (v): quản lý.  
 - Teaching was a combination of information-*dispensing*, custodial child care, and sorting out academically inclined students from others.  
 - The preschool teacher was *supplying* all the students' parents with child care contacts.  
 - As the teacher was *distributing* the tests, the most academically proficient students smiled.  
@@ -116,7 +116,7 @@ relationship between a knowledgeable, caring adult and a secure, **motivated** c
 
 ***
 
-**close relationship**: quan hệ thân thiết  = **close order**: đội hình xếp sát nhau = **casual relationship**: quan hệ nhận quả = **close examination**: kiểm tra kỹ lưỡng = **employment relationship**: quan hệ lao động  
+**close relationship**: quan hệ thân thiết  <=> **close order**: đội hình xếp sát nhau <=> **casual relationship**: quan hệ nhận quả <=> **close examination**: kiểm tra kỹ lưỡng <=> **employment relationship**: quan hệ lao động  
 - Every parent wants the best for their child, placing value on *close relationships*, hard work, and gentleness.  
 - Army foot soldiers during the Middle Ages fought in close order with pikes and other heavy weapons.  
 - Police found nothing, though they performed a *close examination* of the National Institute of Sientific Investigation.  
@@ -186,15 +186,49 @@ Studying **overseas** as part of a university course brings a range of benefits 
 ***
 
 **clever** (adj): thông minh, lanh lợi, sáng suốt.  
-A *clever* student is usually the one who can think critically.  
-It was clever for the Edcation Board top add another year in primary school.  
-Some people who appear to be *clever* are actually smart because they know useless general information which they gathered from watching quiz shows.  
-Nowadays, children are so *clever* that by time they go to school, they already know the lesssons the teacher is about to teach them.  
+- A *clever* student is usually the one who can think critically.  
+- It was clever for the Edcation Board top add another year in primary school.  
+- Some people who appear to be *clever* are actually smart because they know useless general information which they gathered from watching quiz shows.  
+- Nowadays, children are so *clever* that by time they go to school, they already know the lesssons the teacher is about to teach them.  
 
 ***
 
 **undergraduate**: chưa tốt nghiệp, sv đại học.   
-Scholarships are offered to *undergraduate* and graduate students for short and long-term study in Germany.  
-I earned my *undergraduate* degree while studying overseas in Vancouver, British Columbia, Canada.  
-Opportunities are provided for U.S. *undergradutate* and graduate students to become more proficient in the cultures and languages of world regions critical to U.S. interests as they study abroad.
+- Scholarships are offered to *undergraduate* and graduate students for short and long-term study in Germany.  
+- I earned my *undergraduate* degree while studying overseas in Vancouver, British Columbia, Canada.  
+- Opportunities are provided for U.S. *undergradutate* and graduate students to become more proficient in the cultures and languages of world regions critical to U.S. interests as they study abroad.  
+- This program seeks to lower barriers to undergraduate study abroad by offering scholarshiops to students with financial need, and we encourage those underrepresented in study abroad programs to apply.  
 
+***
+
+**preparatory** (adj): chuẩn bị, dự phòng.  
+- Traveling overseas for university is a great preparatory exercise for understanding new cultures.  
+- Enroll in one-year preparatory course designed for foreign students intending to study a second language.  
+- Preparatory programs let students gain the equipvalency or a high school diploma, improve their language skills for studying abroad, or help them get access to postgraduated education.  
+- Whether your study overseas or locally, our preparatory programs help you acquire the skills, knowledge and confidence to continue your education and prepare you for the worplace.  
+
+***
+
+**initiation** (n): giới thiệu sơ bộ, khởi đầu.  
+- All of our overseas students will be given the brief initiation to the area.  
+- Studying overseas will give students an initiation into a new language and culture.  
+- Students interested in pursuing a study abroad program must gain admission independently to the law school overseas and attend a two-day initiation.  
+- Prior to the initiation of an International Faculty Exchange Program, the University and its international partner shall enter into an agreement which will set forth arrangements to facilitate the exchange.  
+
+*** 
+
+**enrich** (v): làm phong phú <=> **augment** (v): tăng cường <=> **supplement** (v): hoàn thiện <=> **enhance** (v): nâng cao <=> **ameliorate** (v): cải thiện.  
+- International study enriches academic experience through exposure to different teaching styles and environments, a diversity of students, and new places to live and travel.  
+- Many teachers augment their teaching styles to suit international students.  
+- In order to supplement my education, I decided to travel and study internationally.  
+- Having a diversity of students in the classroom enhances the overall environment.  
+- I choose to reavel to a new country to ameliorate my educational experience.  
+
+***
+
+tertiary eduation (n) đại học <=> tertiary production (n) dịch vụ <=> public education (n): giáo dục công <=> tertiary period : giai đoạn 3 <=> well-rounded education  
+- Many students in the country pursue a tertiary education at the institutions mentioned in the guide.  
+- In a soda factory, the fluid is mixed, carbonated, and the tertiary production involves bottling.  
+- During a tertiary period of the experiment, the ants subjected to radiation became dominant.  
+- After surveying 39 different countries, Germany came out in front as having the best public education system.  
+- Part of getting a well-rounded education is taking classes in subjects outside one's declared major.
