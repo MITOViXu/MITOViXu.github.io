@@ -1,14 +1,12 @@
 ---
-title: "TOEIC VOCABULARY"
+title: "1 WEEK TOPIC EDUCATION"
 date: 2024-07-25  00:00:00 +0700
 image: /assets/img/other/goat2.jpg
-categories: [Reading]
-tags: [reading]
+categories: [Reading, Vocabulary]
+tags: [reading, vocabulary]
 ---
 
-## 1 WEEK TOPIC : EDUCATION
-
-### MON
+## MON
 
 **aim** (n): mục tiêu. Eng: target; the goal intended to be attained  
 sys: intent, purpose.
@@ -119,9 +117,84 @@ relationship between a knowledgeable, caring adult and a secure, **motivated** c
 ***
 
 **close relationship**: quan hệ thân thiết  = **close order**: đội hình xếp sát nhau = **casual relationship**: quan hệ nhận quả = **close examination**: kiểm tra kỹ lưỡng = **employment relationship**: quan hệ lao động  
-- Every parent wants the best for their child, placing value on close relationships, hard work, and gentleness.  
+- Every parent wants the best for their child, placing value on *close relationships*, hard work, and gentleness.  
 - Army foot soldiers during the Middle Ages fought in close order with pikes and other heavy weapons.  
 - Police found nothing, though they performed a *close examination* of the National Institute of Sientific Investigation.  
 - The victim's suicide has a *casual relationship* with the psychological pressure he received after his bankrupt.  
-- Even third party contractors are in an *employment relationship* with the company.
+- Even third party contractors are in an *employment relationship* with the company.  
+
+## TUE  
+
+**learn** (v): tìm hiểu. Eng: to gain knowledge or skills.  
+sys: study, acquire.  
+```
+As foreign students, we should learn the importance of healthy adapting to our new environment. 
+```
+Is is imperative to **fix in the mind** that when in another country, we should do as their locals do.  
+Foreign students **become informed** about different cultures as they experience living and studying in other countries.  
+To keep education culture adaption from **slipping the mind**, students must observe it regularly when in other countries.  
+
+***  
+
+**instruct** (v): giảng dạy. Eng: to give instructions or directions for some task.  
+Sys: teach, educate.  
+```
+The teacher will instruct foreign students how to register online.
+```
+Foreign students must wait for the leader to **give an order** before they start signing up for membership applications.  
+The student assistants helped **familiarize the methods** of enviironment to the new foreign student enrollees.  
+We can surely **learn from** the foreign students why there is a need for some to enroll in other countries.  
+
+***
+
+**prior** (adj): trước. Eng: anterior; earlier in time.  
+sys: former, previous.  
+```
+There is prior need for orientation before foreign students can come on for class.
+```
+In the **preceeding time**, there was a need for foreign students to take orientation courses before they are taken in.  
+Foreign students made to register **earlier than** the rest to give them tiime for orientation.  
+The foreign students are allowed to join their class right after they finish their orientation.  
+
+***
+
+**willingess** (n): sự sắn lòng. Eng: compliance.  
+sys: eagerness, receptiveness.  
+```
+His willingness to live alone in another country earned him a scholarship to study aboard.
+```
+His **voluntary** will to relocate made him an easy choice for foreiign exchange student program.  
+His **readiness to** comply with the foreign exchange program requirements delighted the school administrators.  
+His **divided commitment** towards studying in a foreign country resulted in the cancellation of his exchange students scholarship.  
+
+*** 
+
+Studying **overseas** as part of a university course brings a range of benefits that one will enjoy long after they complete their studies. International study **enriches** academic experience through exposure to different teaching styles and environments, a diversity of students, and new places to live and travel. Not only does one experience other cultures, dialects, and education systems, but also becomes **habituated** to diffrent ways of thinking. This bring lastings benefits for personal growth, self-confidence, **independence**, and one's **tolerance** of others. Thousands of students worldwide have studied  overseas as part of their **tertiary** education. Many of these students are now **sensitive** to how desireable a study overseas experience is to potential employers. Young people who have studied overseas **possess** a great  advantage in the workforce. Employers, large and small, public or private, trade or profession, are **surveying** for people to join their team who can contribute to their competitiveness in a globally connected world. The skills **acquired** through studying overseas are important building blocks for understandiing business protocols in other cultures.  
+
+***
+**overseas** (adv): nước ngoài. Would you prefer to go *overseas* by plane or by boat.  
+**enrich** (v): làm phong phú. Your generous donation ensures food for the hungry and *enriches* your sponsor child's life.  
+**habituated** (adj): quen thuộc. Some bearsbecoming *habituated* to people and are moving closer to cities.  
+**independence** (n). The project aims to teach women skills that will allow them to achieve financial *independences*.  
+**tolerance** (n). kiên nhẫn, khoang dung. The violence seemed to incompatible with Quebec's reputation for *tolerance* and openness.  
+**tetiary** (adj): bậc 3 đại học. In most couuntries, some form of secondary education is compulsory, but *tetiary* ediucation is voluntary.  
+**sensitive** (adj): nhạy cảm. Fragile ecosystems are highly *sensitive* to changes in temperature.  
+**possess** (v): sở hữu. I *possess* both the knowledge and skills to changes my car tires independently.  
+**survey** (v): khảo sát. As Chuck was *surveying* the land, he saw a large tree in the distance.  
+**acquire** (v): có được. My sister wants the topaz ring that i *acquired* from my late aunt.
+
+***
+
+**clever** (adj): thông minh, lanh lợi, sáng suốt.  
+A *clever* student is usually the one who can think critically.  
+It was clever for the Edcation Board top add another year in primary school.  
+Some people who appear to be *clever* are actually smart because they know useless general information which they gathered from watching quiz shows.  
+Nowadays, children are so *clever* that by time they go to school, they already know the lesssons the teacher is about to teach them.  
+
+***
+
+**undergraduate**: chưa tốt nghiệp, sv đại học.   
+Scholarships are offered to *undergraduate* and graduate students for short and long-term study in Germany.  
+I earned my *undergraduate* degree while studying overseas in Vancouver, British Columbia, Canada.  
+Opportunities are provided for U.S. *undergradutate* and graduate students to become more proficient in the cultures and languages of world regions critical to U.S. interests as they study abroad.
 
