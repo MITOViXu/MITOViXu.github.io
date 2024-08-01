@@ -218,17 +218,96 @@ Studying **overseas** as part of a university course brings a range of benefits 
 *** 
 
 **enrich** (v): làm phong phú <=> **augment** (v): tăng cường <=> **supplement** (v): hoàn thiện <=> **enhance** (v): nâng cao <=> **ameliorate** (v): cải thiện.  
-- International study enriches academic experience through exposure to different teaching styles and environments, a diversity of students, and new places to live and travel.  
-- Many teachers augment their teaching styles to suit international students.  
-- In order to supplement my education, I decided to travel and study internationally.  
-- Having a diversity of students in the classroom enhances the overall environment.  
-- I choose to reavel to a new country to ameliorate my educational experience.  
+- International study *enriches* academic experience through exposure to different teaching styles and environments, a diversity of students, and new places to live and travel.  
+- Many teachers *augment* their teaching styles to suit international students.  
+- In order to *supplement* my education, I decided to travel and study internationally.  
+- Having a diversity of students in the classroom *enhances* the overall environment.  
+- I choose to reavel to a new country to *ameliorate* my educational experience.  
 
 ***
 
-tertiary eduation (n) đại học <=> tertiary production (n) dịch vụ <=> public education (n): giáo dục công <=> tertiary period : giai đoạn 3 <=> well-rounded education  
-- Many students in the country pursue a tertiary education at the institutions mentioned in the guide.  
-- In a soda factory, the fluid is mixed, carbonated, and the tertiary production involves bottling.  
-- During a tertiary period of the experiment, the ants subjected to radiation became dominant.  
-- After surveying 39 different countries, Germany came out in front as having the best public education system.  
-- Part of getting a well-rounded education is taking classes in subjects outside one's declared major.
+**tertiary eduation** (n) đại học <=> **tertiary production** (n) dịch vụ <=> **public education** (n): giáo dục công <=> **tertiary period** : giai đoạn 3 <=> **well-rounded education**  (n): giáo dục toàn diện.
+- Many students in the country pursue a *tertiary education* at the institutions mentioned in the guide.  
+- In a soda factory, the fluid is mixed, carbonated, and the *tertiary production* involves bottling.  
+- During a *tertiary period* of the experiment, the ants subjected to radiation became dominant.  
+- After surveying 39 different countries, Germany came out in front as having the best *public education* system.  
+- Part of getting a *well-rounded education* is taking classes in subjects outside one's declared major.
+
+## WED  
+
+significant (adj): quan trọng. Having or expressing a meaning.  
+sys: vital, substantial.  
+```
+Eacher player of a baseketball team has a significant role in every defense and offense routine played.
+```  
+Even smaller baseketball players have a purpose in the overall carrying of game strageties.  
+The absence of even one baseketball player has a major effect on the entire game play of the team.  
+Some players in a team are just devoid of importance that their non-participation is barely noticeable.  
+
+***  
+
+extinct (adj): không còn tồn tại. Eng: no longer in existence; lost or especially having died out leaving no living representatives.  
+sys: vanished, obsolete.  
+```
+It is feared that because of the declining popularity of sports, athletes with extraodinary ailities will soon be extinct.  
+```
+If extraodinary athletes cease to exist, sports fanatics would also decrease in number.  
+Michael Jordan comes from a breed of extraordinary athletes that had aldready died out.  
+The self-made super athletes are now thriving and surviving in the sports world.  
+
+***  
+
+**personal** (adj): mang tính cá nhân. Eng: concerning of affecting a particular person or his or her private life and personality.  
+sys: private, subjective.  
+```
+My reason for preferring team sports to a solo sport is personal.
+```
+The motivation for athletes to be diligent team players takes place with an individual.  
+The athletes's ideas to improve a team's game must not remain confined the person, but shared with his team.  
+
+*** 
+
+**value** (n): giá trị. Eng: beliefs of a person or social group on which they have an emotional investment.  
+sys: ideal, principle.  
+```
+All players have significant value in the team and each plays a speial role.
+```
+The unspoken code of behavior when in a team sport includes allowing perfoming teammates to be star palyer.  
+The perception on the moral worth of an athletes in a team boosts one's ego, helpuing perform better.  
+His deviance from social norms of playing fair in a team pushed the coach to kick him out.  
+
+***
+
+Team sports provide children with many **opportunities**. First off, children can develop and strengthen their social skills while playing team sport. Successful participant in these sports requires children to learn how to **cooperate** with their **teammates**, how to follow directions and how to develop friendships. Participation in team sports can also teach children about being "good sports", which **enables** them to develop the ability to show appreciation and respect to others foor their accomplishments and to **empathize** with those who may not be as successful. One of the most important benefits of team sports is teaching children how to cope with **competition** in a healthy way. Other psychological benefits of team sport participation include learning how to solve problems, develop **patience** and **persistence**, and become self disciplined. Unfortunately, budgets restraints and increased **pressure** for academic achivement have forced many schoolds too eliminate physical education programs. Since children who **participate** in regular physical activity have reduced risks of diabetes and obesity, we need to proovide children with more oportunities to be physically active.  
+
+***
+
+You have had several **opportunities** to appologize to me but have yet to do so. (n): cơ hội.  
+Students must **cooperate** with each other well for group presentations. (v): hợp tác.  
+Rather than skate alone, Jerry practiced on ice with his **teammates** oon Monday.  
+Money **enables** one to attain higher education abroad.  
+He couldn's **empathize** with Sara's pain because he had never lost a pet before.  
+Mr. Kim had stiff **competition** at the hotdog-eating contest this year. (n): cạnh tranh khóc liệt.  
+It is important to work hard with **patience** for success. (n): tính kiên nhẫn.  
+I know that with **persistence**, I will able to stand up on the surf board. (n): sự kiên trì.  
+I don't want to **pressure** you, but we must to leave in five minutes. (v): gây áp lực.  
+You can **participate** by creating a presentation or hosting a social event. (v): tham dự.  
+
+***
+
+cheat (v):  gian lận.  
+Nobody likes a team player that has to cheat in order to win.  
+I convince the volleyball captain not to cheat and play the sport fairly.  
+To those few who play team sports, the difference between winning and loosing isn't an option, so instead of trying harder and training monger, they cheat.  
+The coach who falsifies a copy of a player's birth certificate soo that a 12 years olds can dominte 10 years olds essentially teaches their players that it is acceptable to cheat.  
+
+***
+
+upbringing (n): sự giáo dục.  
+My upbringing was very active, meaning that i was always playing team sports.  
+The athletes rose above his touch upbringing to become an excellent team player on his football team.  
+Parents should enroll their chilren in team sports because having this type of upbringing inspires chiildren to stay active in their whole lives.  
+One way parents and comunity leaders can take an active role in improving the health of our children is to encourage participation in youth sports programs throughout their upbringing.  
+5
+
+
