@@ -308,6 +308,18 @@ My upbringing was very active, meaning that i was always playing team sports.
 The athletes rose above his touch upbringing to become an excellent team player on his football team.  
 Parents should enroll their chilren in team sports because having this type of upbringing inspires chiildren to stay active in their whole lives.  
 One way parents and comunity leaders can take an active role in improving the health of our children is to encourage participation in youth sports programs throughout their upbringing.  
-5
+
+## THU
+
+**cybernertic** (adj): điều khiển trí học, trí tuệ nhân tạo.  
+
+Examples of **cybernetic** systems are various kinds of automatic control devices in engineering.  
+The term cybernetic organism has been applied to netowrks, such as road systems, corporations and governmnets.  
+The result of the application of a utopian vision onto a human is a cyborg a natural organism linked for its survival and improvement to a cybernetic system.  
+One of the major ethical issues that comes up when looking at cybernetic augmentation is the distinction that is made between restorative augmentation technologies and augmentation technologies and augmentation for enhancement.  
+
+***  
+
+
 
 
